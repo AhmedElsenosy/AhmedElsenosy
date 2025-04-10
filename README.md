@@ -1,19 +1,72 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elsenosy</h1>
-<h3 align="center">Backend Developer (Django & .NET)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelsenosy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelsenosy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedelsenosy" alt="ahmedelsenosy" /></a> </p>
-
-- 📫 How to reach me **ahmedelsenosy487@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/username/main/assets/banner.gif" alt="Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi there 👋, I'm a Django Developer</h1>
+<h3 align="center">Python | Django | REST APIs | Full Stack Enthusiast</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedelsenosy&show_icons=true&locale=en&layout=compact" alt="ahmedelsenosy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedelsenosy&show_icons=true&locale=en" alt="ahmedelsenosy" /></p>
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working as a **Django Developer**
+- 🌱 I’m exploring advanced topics in **Django Rest Framework** and **scalable backend architecture**
+- 👯 I’m looking to collaborate on **open-source Python/Django projects**
+- 💬 Ask me about Python, Django, SQL, REST APIs, or anything tech!
+- 📫 Reach me at: **[your_email@example.com]**
+- ⚡ Fun fact: I love writing clean, scalable, and maintainable code 🚀
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top languages"/>
+</p>
+
+---
+
+### 🧠 My Recent Projects
+
+- 🔧 **[Project Name 1](https://github.com/your-username/project1)** – Brief description
+- 🔧 **[Project Name 2](https://github.com/your-username/project2)** – Brief description
+- 🔧 **[Project Name 3](https://github.com/your-username/project3)** – Brief description
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer GIF or image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/username/main/assets/code.gif" height="200px" />
+</p>
