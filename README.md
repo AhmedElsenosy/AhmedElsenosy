@@ -41,12 +41,13 @@
 #### 🤖 AI & Data
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=flat)
 
 ---
 
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
@@ -69,10 +70,11 @@
 
 ### 🚀 What I’m Working On
 
-- 🔹 Building **FastAPI + MongoDB scalable systems**
+- 🔹 Building scalable systems using **Django, FastAPI & MongoDB**
+- 🔹 Designing high-performance APIs with **PostgreSQL & modern backend practices**
 - 🔹 Developing **AI-powered backend services**
 - 🔹 Exploring **MLOps & deployment pipelines**
-- 🔹 Designing **clean architecture backend projects**
+- 🔹 Applying **clean architecture** in backend projects
 
 ---
 
