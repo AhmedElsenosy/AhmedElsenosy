@@ -11,8 +11,8 @@
 
 - 💼 Backend Developer with solid experience in **Django & FastAPI**
 - ⚡ I build **scalable REST APIs** and backend systems
-- 🤖 Working with **AI & Deep Learning models integration**
-- 🧠 Interested in **MLOps & AI-powered applications**
+- 🤖 Integrating AI & Deep Learning models into real-world backend systems
+- 🧠 Passionate about MLOps, model deployment, and building AI-driven applications
 - 🗄️ Experienced with **SQL & NoSQL databases (MongoDB)**
 - 📬 Reach me at: **ahmedelsenosy487@gmail.com**
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-elsenosy/)
