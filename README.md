@@ -2,7 +2,7 @@
 <h3 align="center">Generative AI Engineer | RAG & LLM Systems | Django & FastAPI</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="60%" alt="coding">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="coding">
 </p>
 
 ---
